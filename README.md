@@ -2,7 +2,6 @@
 
 This is the companion repo to: [Complete Docker Course - From BEGINNER to PRO! (Learn Containers)](https://youtu.be/RqTEHSBrYFw)
 
-[![](./readme-assets/thumbnail.jpg)](https://youtu.be/RqTEHSBrYFw)
 
 ## Sponsor
 
